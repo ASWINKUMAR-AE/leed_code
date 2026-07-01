@@ -1,3 +1,6 @@
+# Browser profile (Chrome/Chromium data - not needed in repo)
+leetcode_profile/
+
 # Virtual Environment
 venv/
 env/
